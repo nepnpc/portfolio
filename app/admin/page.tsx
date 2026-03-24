@@ -303,7 +303,7 @@ export default function AdminPage() {
                 </button>
               </div>
               <p className="font-mono text-[10px] text-zinc-600">
-                Restart the dev server if you don't see it appear immediately.
+                Restart the dev server if you don&apos;t see it appear immediately.
               </p>
             </motion.div>
           )}

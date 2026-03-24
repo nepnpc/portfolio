@@ -83,7 +83,7 @@ export default function LogPage() {
             <span className="font-mono text-4xl text-zinc-800">◌</span>
             <div className="space-y-1">
               <p className="font-mono text-sm text-zinc-600">
-                // No commits yet.
+                {"// No commits yet."}
               </p>
               <p className="font-mono text-xs text-zinc-700">
                 The log starts when the first thing is learned and shipped.
@@ -180,7 +180,7 @@ export default function LogPage() {
               <span className="font-mono text-[8px] text-zinc-700">⊕</span>
             </div>
             <p className="font-mono text-xs text-zinc-700 border border-dashed border-zinc-800 rounded-lg p-4 text-center">
-              // Day 01 — The journey begins. More commits incoming daily.
+              {"// Day 01 — The journey begins. More commits incoming daily."}
             </p>
           </motion.div>
         </motion.div>

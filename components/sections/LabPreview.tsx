@@ -34,7 +34,7 @@ export default function LabPreview() {
           >
             <span className="font-mono text-2xl text-zinc-800">⬡</span>
             <p className="font-mono text-xs text-zinc-600 text-center">
-              // No projects yet — the lab is being set up.
+              {"// No projects yet — the lab is being set up."}
             </p>
             <p className="font-mono text-[10px] text-zinc-700 text-center">
               Projects will appear here as they are built.
